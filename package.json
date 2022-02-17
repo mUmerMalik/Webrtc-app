@@ -1,0 +1,37 @@
+{
+  "name": "bear-stream-next",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@headlessui/react": "^1.2.0",
+    "@heroicons/react": "^1.0.1",
+    "@reduxjs/toolkit": "^1.5.1",
+    "axios": "^0.21.1",
+    "emoji-mart": "^3.0.1",
+    "formik": "^2.2.8",
+    "heroicons": "^1.0.1",
+    "next": "10.2.3",
+    "react": "17.0.2",
+    "react-avatar": "^3.10.0",
+    "react-dom": "17.0.2",
+    "react-multiple-image-uploader": "^1.0.3",
+    "react-notifications": "^1.7.2",
+    "react-phone-number-input": "^3.1.23",
+    "react-rating-stars-component": "^2.2.0",
+    "react-redux": "^7.2.4",
+    "react-webcam": "^5.2.4",
+    "simple-peer": "^9.11.0",
+    "socket.io-client": "^2.2.0",
+    "yup": "^0.32.9"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.2.6",
+    "postcss": "^8.3.0",
+    "tailwindcss": "^2.1.3"
+  }
+}
